@@ -80,7 +80,6 @@ a {
 
   &.internal {
     text-decoration: none;
-    // background-color: var(--highlight);
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
@@ -553,16 +552,4 @@ body {
 
 .transclude-src {
   display: none;
-}
-
-.column {
-  float: left;
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
 }
