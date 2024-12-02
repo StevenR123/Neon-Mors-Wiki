@@ -29,12 +29,7 @@ export function pageResources(
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
 
   return {
-    css: [
-      {
-        content: joinSegments(baseDir, "index.css"),
-      },
-      ...staticResources.css,
-    ],
+    css: [joinSegments(baseDir, "index.css"), ...staticResources.css],
     js: [
       {
         src: joinSegments(baseDir, "prescript.js"),
@@ -70,7 +65,7 @@ export function renderPage(
   const root = clone(componentData.tree) as Root
 
   // process transcludes in componentData
-  visit(root, "element", (node, _index, _parent) => {
+  visit(root, "element", (node, _index, _parent) => {    
     if (node.tagName === "blockquote") {
       const classNames = (node.properties?.className ?? []) as string[]
       if (classNames.includes("transclude")) {
@@ -247,8 +242,8 @@ export function renderPage(
               </div>
             </div>
             {RightComponent}
-            <Footer {...componentData} />
           </Body>
+          <Footer {...componentData} />
         </div>
       </body>
       {pageResources.js
