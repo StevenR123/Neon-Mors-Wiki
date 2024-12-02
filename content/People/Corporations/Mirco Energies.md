@@ -1,7 +1,9 @@
 ---
-aliases: 
+aliases:
+  - ME
 draft: true
-tags: 
+tags:
+  - Corp
 weight:
 ---
 %%

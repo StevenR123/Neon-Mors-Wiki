@@ -1,7 +1,9 @@
 ---
-aliases: 
+aliases:
+  - Atlos
 draft: true
-tags: 
+tags:
+  - Corp
 weight:
 ---
 %%

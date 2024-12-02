@@ -1,7 +1,10 @@
 ---
 aliases: 
 draft: true
-tags: 
+tags:
+  - Gang
+  - Phoenix
+  - PDZ
 weight:
 ---
 %%

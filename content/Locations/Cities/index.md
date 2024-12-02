@@ -1,6 +1,5 @@
 ---
 title: Home Page
 draft: false
-weight:
+weight: "10"
 ---
-Homepage

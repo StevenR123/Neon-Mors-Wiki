@@ -1,7 +1,9 @@
 ---
 aliases: 
 draft: true
-tags: 
+tags:
+  - District
+  - Phoenix
 weight:
 ---
 %%
