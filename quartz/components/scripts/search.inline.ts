@@ -148,7 +148,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const data = await fetchData
   const container = document.getElementById("search-container")
   const sidebar = container?.closest(".sidebar") as HTMLElement
-  const searchButton = document.getElementById("search-button")
+  const searchIcon = document.getElementById("search-icon")
   const searchBar = document.getElementById("search-bar") as HTMLInputElement | null
   const searchLayout = document.getElementById("search-layout")
   const idDataMap = Object.keys(data) as FullSlug[]
@@ -178,7 +178,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       searchBar.value = "" // clear the input when we dismiss the search
     }
     if (sidebar) {
-      sidebar.style.zIndex = ""
+      sidebar.style.zIndex = "unset"
     }
     if (results) {
       removeAllChildren(results)
@@ -191,8 +191,6 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
 
     searchType = "basic" // reset search type after closing
-
-    searchButton?.focus()
   }
 
   function showSearch(searchTypeNew: SearchType) {
@@ -304,36 +302,42 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   }
 
   const resultToHTML = ({ slug, title, content, tags }: Item) => {
-    const htmlTags = tags.length > 0 ? `<ul class="tags">${tags.join("")}</ul>` : ``
-    const itemTile = document.createElement("a")
-    itemTile.classList.add("result-card")
-    itemTile.id = slug
-    itemTile.href = resolveUrl(slug).toString()
-    itemTile.innerHTML = `<h3>${title}</h3>${htmlTags}${
-      enablePreview && window.innerWidth > 600 ? "" : `<p>${content}</p>`
-    }`
-    itemTile.addEventListener("click", (event) => {
-      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
-      hideSearch()
-    })
-
-    const handler = (event: MouseEvent) => {
-      if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
-      hideSearch()
+    if (!slug.includes("Hidden")) {
+      const htmlTags = tags.length > 0 ? `<ul class="tags">${tags.join("")}</ul>` : ``
+      const itemTile = document.createElement("a")
+      itemTile.classList.add("result-card")
+      itemTile.id = slug
+      itemTile.href = resolveUrl(slug).toString()
+      itemTile.innerHTML = `<h3>${title}</h3>${htmlTags}${
+        enablePreview && window.innerWidth > 600 ? "" : `<p>${content}</p>`
+      }`
+      itemTile.addEventListener("click", (event) => {
+        if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
+        hideSearch()
+      })
+  
+      const handler = (event: MouseEvent) => {
+        if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
+        hideSearch()
+      }
+  
+      async function onMouseEnter(ev: MouseEvent) {
+        if (!ev.target) return
+        const target = ev.target as HTMLInputElement
+        await displayPreview(target)
+      }
+  
+      itemTile.addEventListener("mouseenter", onMouseEnter)
+      window.addCleanup(() => itemTile.removeEventListener("mouseenter", onMouseEnter))
+      itemTile.addEventListener("click", handler)
+      window.addCleanup(() => itemTile.removeEventListener("click", handler))
+  
+      return itemTile
+    } else {
+      const itemTile = document.createElement("a")
+      itemTile.style.cssText = 'display:hidden;'
+      return itemTile
     }
-
-    async function onMouseEnter(ev: MouseEvent) {
-      if (!ev.target) return
-      const target = ev.target as HTMLInputElement
-      await displayPreview(target)
-    }
-
-    itemTile.addEventListener("mouseenter", onMouseEnter)
-    window.addCleanup(() => itemTile.removeEventListener("mouseenter", onMouseEnter))
-    itemTile.addEventListener("click", handler)
-    window.addCleanup(() => itemTile.removeEventListener("click", handler))
-
-    return itemTile
   }
 
   async function displayResults(finalResults: Item[]) {
@@ -460,8 +464,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
-  searchButton?.addEventListener("click", () => showSearch("basic"))
-  window.addCleanup(() => searchButton?.removeEventListener("click", () => showSearch("basic")))
+  searchIcon?.addEventListener("click", () => showSearch("basic"))
+  window.addCleanup(() => searchIcon?.removeEventListener("click", () => showSearch("basic")))
   searchBar?.addEventListener("input", onType)
   window.addCleanup(() => searchBar?.removeEventListener("input", onType))
 

@@ -8,8 +8,6 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
@@ -27,12 +25,30 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(
+      {
+        filterFn: (node) => {
+          // set containing names of everything you want to filter out
+          const omit = new Set(["Hidden"])
+          return !omit.has(node.name)
+        }
+      }
+    )),
+    // Component.RecentNotes(),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Backlinks(),
+    Component.MobileOnly(Component.Explorer(
+      {
+        filterFn: (node) => {
+          // set containing names of everything you want to filter out
+          const omit = new Set(["Hidden"])
+          return !omit.has(node.name)
+        },
+      }
+    )),
   ],
 }
 
@@ -44,7 +60,16 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(
+      {
+        filterFn: (node) => {
+          // set containing names of everything you want to filter out
+          const omit = new Set(["Hidden"])
+          return !omit.has(node.name)
+        }
+      }
+    )),
+  
   ],
   right: [],
 }
