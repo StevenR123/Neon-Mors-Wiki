@@ -1,6 +1,6 @@
 ---
-title: Home Page
-draft: false
+title: Welcome to Quartz
 ---
- 
-Guess I'm a homepage.
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
