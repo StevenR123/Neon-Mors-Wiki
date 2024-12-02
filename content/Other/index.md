@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Other
 draft: false
 weight: "20"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: People
 draft: false
 weight: "0"
 ---

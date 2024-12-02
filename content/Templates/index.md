@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Templates
 draft: true
 weight: "80"
 ---

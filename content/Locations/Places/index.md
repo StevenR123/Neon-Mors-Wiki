@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Places
 draft: false
 weight: "30"
 ---
