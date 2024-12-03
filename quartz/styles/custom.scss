@@ -2,6 +2,8 @@
 
 // put your custom CSS here!
 .leftTH {
-    padding: .4rem .7rem;
     font-weight: bold;
-  }
+}
+td:has(span.leftTH) {
+  border-right: 2px solid var(--gray);
+}
