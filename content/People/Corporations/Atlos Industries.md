@@ -7,9 +7,9 @@ tags:
 weight:
 ---
 %%
-%%
 Based in LA.
 Controls the government of [[South California]].
+%%
 
 |                                          |                                                                            |
 | ---------------------------------------- | -------------------------------------------------------------------------- |
@@ -18,3 +18,11 @@ Controls the government of [[South California]].
 | <span class="leftTH">Strength</span>     | They have absolute rule over an area, LA                                   |
 | <span class="leftTH">Recent Event</span> | %%AI Project has broken free and is destroying Atlos' outer facilities. %% |
 | <span class="leftTH">Corp Goal</span>    | %%Reassert control over rogue AI%%                                         |
+# Summary
+Atlos is one of the worlds five largest corporations and the leader in computing technology.
+They have extensive developments in both the hardware and the software for so called [[Virtual Intelligence Systems]], which are semi-smart systems meant to oversee large monitoring and administrative tasks such as the utility grids for cities.
+
+## [[South California]]
+Atlos is based out of LA and it has nearly full control over South California with only a thin veneer of separation.
+## Recent Conflicts
+Many of Atlos' facilities throughout the west coast have been attacked in the least few years. Although the extent of these attacks are covered up by the corporation the large spike in violence has been disrupting the corporations normal operations.
