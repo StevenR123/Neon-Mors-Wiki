@@ -1,13 +1,13 @@
 ---
-aliases: 
-draft: false
+aliases:
+draft: true
 tags:
   - District
-  - Phoenix
-weight:
+weight: ""
 ---
 %%
 %%
+
 
 | Corporations | Gangs | Fixers |
 |:------------:|:-----:|:------:|
