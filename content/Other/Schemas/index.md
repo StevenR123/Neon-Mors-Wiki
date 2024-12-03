@@ -1,5 +1,5 @@
 ---
 title: Schemas
 draft: false
-weight: "0"
+weight: "10"
 ---
