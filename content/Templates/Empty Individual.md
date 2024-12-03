@@ -8,22 +8,22 @@ weight:
 %%
 %%
 
-|                |     |
-| -------------- | --- |
-| Strength       |     |
-| Virtue         |     |
-| Flaw           |     |
-| Problem        |     |
-| Desire         |     |
+|                                      |     |
+| ------------------------------------ | --- |
+| <span class="leftTH">Strength</span> |     |
+| <span class="leftTH">Virtue</span>   |     |
+| <span class="leftTH">Flaw</span>     |     |
+| <span class="leftTH">Problem</span>  |     |
+| <span class="leftTH">Desire</span>   |     |
 
 |                |     |
 | -------------- | --- |
-| Affiliation    |     |
-| Job            |     |
+| <span class="leftTH">Affiliation</span>    |     |
+| <span class="leftTH">Job</span>            |     |
 
 |                |     |
 | -------------- | --- |
-| Known Hangouts |     |
-| Known Aliases  |     |
-| Known Friends  |     |
-| Known Enemies  |     |
+| <span class="leftTH">Known Hangouts</span> |     |
+| <span class="leftTH">Known Aliases</span>  |     |
+| <span class="leftTH">Known Friends</span>  |     |
+| <span class="leftTH">Known Enemies</span>  |     |

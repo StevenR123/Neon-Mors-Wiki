@@ -7,13 +7,13 @@ tags:
   - PDZ
 weight:
 ---
-|               |                                            |
-|:------------- |:------------------------------------------ |
-| Income        | Blackmail                                  |
-| Style         | Corporate                                  |
-| Strengths     | A local group views them as protectors     |
-| Recent Events | %%They crushed a rival in a bloody clash%% |
-| Current Goals | %%Avenge some slight by another group%%    |
+|                                           |                                            |
+|:----------------------------------------- |:------------------------------------------ |
+| <span class="leftTH">Income</span>        | Blackmail                                  |
+| <span class="leftTH">Style</span>         | Corporate                                  |
+| <span class="leftTH">Strengths</span>     | A local group views them as protectors     |
+| <span class="leftTH">Recent Events</span> | %%They crushed a rival in a bloody clash%% |
+| <span class="leftTH">Current Goals</span> | %%Avenge some slight by another group%%    |
 
 ---
 %%

@@ -7,13 +7,13 @@ tags:
   - PDZ
 weight:
 ---
-|               |                                            |
-|:------------- |:------------------------------------------ |
-| Income        | Assassinations                             |
-| Style         | Terrifying                                 |
-| Strengths     | They have a fearsome reputation            |
-| Recent Events | %%Their favorite income was squeezed%%     |
-| Current Goals | %%Cyber up their enforcers with big iron%% |
+|                                           |                                            |
+|:----------------------------------------- |:------------------------------------------ |
+| <span class="leftTH">Income</span>        | Assassinations                             |
+| <span class="leftTH">Style</span>         | Terrifying                                 |
+| <span class="leftTH">Strengths</span>     | They have a fearsome reputation            |
+| <span class="leftTH">Recent Events</span> | %%Their favorite income was squeezed%%     |
+| <span class="leftTH">Current Goals</span> | %%Cyber up their enforcers with big iron%% |
 
 ---
 %%

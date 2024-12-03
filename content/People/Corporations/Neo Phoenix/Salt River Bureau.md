@@ -11,8 +11,8 @@ Wants to focus on bringing goods to and from [[The Republic of Texas]] without t
 
 |              |                                                                              |
 | ------------ | ---------------------------------------------------------------------------- |
-| Focus        | Transport/Logistics                                                          |
-| Style        | Cultish, cultivating a religious kind of isolating devotion in its employees |
-| Strength     | Other corps are reluctant to touch them                                      |
-| Recent Event | Its CEO died or was forced out                                               |
-| Corp Goal    | %%Force open a currently-closed market%%                                     |
+| <span class="leftTH">Focus</span>        | Transport/Logistics                                                          |
+| <span class="leftTH">Style</span>        | Cultish, cultivating a religious kind of isolating devotion in its employees |
+| <span class="leftTH">Strength</span>     | Other corps are reluctant to touch them                                      |
+| <span class="leftTH">Recent Event</span> | Its CEO died or was forced out                                               |
+| <span class="leftTH">Corp Goal</span>    | %%Force open a currently-closed market%%                                     |

@@ -11,10 +11,10 @@ Has access to an incomplete version of [[Gamma]] Tech
 %%
 Based in England
 
-|              |                                                                              |
-| ------------ | ---------------------------------------------------------------------------- |
-| Focus        | Cyberware                                                                    |
-| Style        | Cultish, cultivating a religious kind of isolating devotion in its employees |
-| Strength     | They have access to special technology                                       |
-| Recent Event | It conducted a PR blitz on the city                                          |
-| Corp Goal    | %%Inflict a PR disaster on a rival%%                                         |
+|                                          |                                                                              |
+| ---------------------------------------- | ---------------------------------------------------------------------------- |
+| <span class="leftTH">Focus</span>        | Cyberware                                                                    |
+| <span class="leftTH">Style</span>        | Cultish, cultivating a religious kind of isolating devotion in its employees |
+| <span class="leftTH">Strength</span>     | They have access to special technology                                       |
+| <span class="leftTH">Recent Event</span> | It conducted a PR blitz on the city                                          |
+| <span class="leftTH">Corp Goal</span>    | %%Inflict a PR disaster on a rival%%                                         |

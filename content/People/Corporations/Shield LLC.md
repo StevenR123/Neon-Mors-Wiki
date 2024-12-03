@@ -12,10 +12,10 @@ Wants a mole in Micro Energies C-Suite.
 %%
 Based in Japan.
 
-|              |                                                                        |
-| ------------ | ---------------------------------------------------------------------- |
-| Focus        | Security Services                                                      |
-| Style        | Reckless, constantly making dangerous bets that may or may not pay off |
-| Strength     | Their military forces are surprisingly strong                          |
-| Recent Event | %%It committed a barely-deniable atrocity%%                            |
-| Corp Goal    | %%Plant a mole in another corp’s C-suite%%                             |
+|                                          |                                                                        |
+| ---------------------------------------- | ---------------------------------------------------------------------- |
+| <span class="leftTH">Focus</span>        | Security Services                                                      |
+| <span class="leftTH">Style</span>        | Reckless, constantly making dangerous bets that may or may not pay off |
+| <span class="leftTH">Strength</span>     | Their military forces are surprisingly strong                          |
+| <span class="leftTH">Recent Event</span> | %%It committed a barely-deniable atrocity%%                            |
+| <span class="leftTH">Corp Goal</span>    | %%Plant a mole in another corp’s C-suite%%                             |

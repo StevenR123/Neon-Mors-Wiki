@@ -11,8 +11,8 @@ Their partnership with [[Durdle Corp|Durdle]] has been ended and they are dumpin
 
 |              |                                                                                |
 | ------------ | ------------------------------------------------------------------------------ |
-| Focus        | Biotech                                                                        |
-| Style        | Decaying, blindly pursuing products and schemes that just aren’t going to work |
-| Strength     | %%They have plants among many rivals%%                                         |
-| Recent Event | %%It has lost it's partnership with [[Durdle Corp]]%%                          |
-| Corp Goal    | %%Acquire more tangible military power%%                                       |
+| <span class="leftTH">Focus</span>        | Biotech                                                                        |
+| <span class="leftTH">Style</span>        | Decaying, blindly pursuing products and schemes that just aren’t going to work |
+| <span class="leftTH">Strength</span>     | %%They have plants among many rivals%%                                         |
+| <span class="leftTH">Recent Event</span> | %%It has lost it's partnership with [[Durdle Corp]]%%                          |
+| <span class="leftTH">Corp Goal</span>    | %%Acquire more tangible military power%%                                       |

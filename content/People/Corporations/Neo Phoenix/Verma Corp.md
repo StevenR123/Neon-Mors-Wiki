@@ -10,10 +10,10 @@ They did not suffer any consequences from their failure as [[Atlos Industries|At
 Verma Corp is attempting to recreate a more controllable AI from the information they gathered during their partnership.
 %%
 
-|              |                                                                                                  |
-| ------------ | ------------------------------------------------------------------------------------------------ |
-| Focus        | Electronics                                                                                      |
-| Style        | Spiteful, willing to lose money to inflict punishment on its rivals and enemies                  |
-| Strength     | They have access to special technology                                                           |
-| Recent Event | %%It spent a massive amount of money to bribe the local government to put the city in lockdown%% |
-| Corp Goal    | %%Research a revolutionary new tech%%                                                            |
+|                                          |                                                                                                  |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <span class="leftTH">Focus</span>        | Electronics                                                                                      |
+| <span class="leftTH">Style</span>        | Spiteful, willing to lose money to inflict punishment on its rivals and enemies                  |
+| <span class="leftTH">Strength</span>     | They have access to special technology                                                           |
+| <span class="leftTH">Recent Event</span> | %%It spent a massive amount of money to bribe the local government to put the city in lockdown%% |
+| <span class="leftTH">Corp Goal</span>    | %%Research a revolutionary new tech%%                                                            |
