@@ -21,7 +21,7 @@ Based in Japan.
 | <span class="leftTH">Corp Goal</span>    | %%Plant a mole in another corp’s C-suite%%                             |
 # Summary
 Shield is one of the five largest mega-corporations in the world, and is based out of Japan.
-They have a split focus on both physical and cyber security services. They act as both mercenary guards for other organizations and as anti-[[slicer]] specialist.
+They have a split focus on both physical and cyber security services. They act as both mercenary guards for other organizations and as anti-[[Slicer]] specialist.
 
 They are also heavily invested in the development of [[Cyberdeck|Cyberdecks]].
 ## Rumors

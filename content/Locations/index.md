@@ -1,6 +1,6 @@
 ---
 title: Locations
-draft: false
+draft: true
 weight: "10"
 ---
  

@@ -26,3 +26,13 @@ They have extensive developments in both the hardware and the software for so ca
 Atlos is based out of LA and it has nearly full control over South California with only a thin veneer of separation.
 ## Recent Conflicts
 Many of Atlos' facilities throughout the west coast have been attacked in the least few years. Although the extent of these attacks are covered up by the corporation the large spike in violence has been disrupting the corporations normal operations.
+
+%%
+# Previous Campaign
+## [[R.A.I.N.]]
+[[Verma Corp]] was working with [[Atlos Industries|Atlos]] to test one of their experimental AIs Designated R.A.I.N. but a criminal group stole the prototype.
+
+Later this Rain helped with attacks against [[Atlos Industries|Atlos]] that led to several other AIs being released into the wild.
+
+This is the basis for the current conflict Atlos is facing across the West Coast.
+%%

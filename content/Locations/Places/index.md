@@ -1,5 +1,5 @@
 ---
 title: Places
-draft: false
+draft: true
 weight: "30"
 ---

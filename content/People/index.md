@@ -1,5 +1,5 @@
 ---
 title: People
-draft: false
+draft: true
 weight: "0"
 ---
