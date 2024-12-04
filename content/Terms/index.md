@@ -1,5 +1,5 @@
 ---
 title: Terms
-draft: true
+draft: false
 weight: "60"
 ---

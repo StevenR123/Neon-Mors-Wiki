@@ -1,5 +1,5 @@
 ---
 title: Individuals
-draft: true
+draft: false
 weight: "40"
 ---

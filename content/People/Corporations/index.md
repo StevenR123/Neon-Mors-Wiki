@@ -1,5 +1,5 @@
 ---
 title: Corporations
-draft: true
+draft: false
 weight: "10"
 ---
