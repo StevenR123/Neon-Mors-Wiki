@@ -1,5 +1,5 @@
 ---
 title: Events
-draft: false
+draft: true
 weight: "50"
 ---
