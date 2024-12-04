@@ -10,3 +10,7 @@ td:has(span.leftTH) {
 .explorer h2, .explorer svg, button#toc > h3, button#toc > svg {
   color: var(--secondary);
 }
+
+p > strong {
+  color: whitesmoke !important;
+}
