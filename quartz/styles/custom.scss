@@ -7,3 +7,6 @@
 td:has(span.leftTH) {
   border-right: 2px solid var(--gray);
 }
+.explorer h2, .explorer svg, button#toc > h3, button#toc > svg {
+  color: var(--secondary);
+}
