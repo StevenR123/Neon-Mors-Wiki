@@ -20,7 +20,7 @@ Controls the government of [[South California]].
 | <span class="leftTH">Corp Goal</span>    | %%Reassert control over rogue AI%%                                         |
 # Summary
 Atlos is one of the worlds five largest mega-corporations and the leader in computing technology.
-They have extensive developments in both the hardware and the software for so called [[Virtual Intelligence Systems]], which are semi-smart systems meant to oversee large monitoring and administrative tasks such as the utility grids for cities.
+They have extensive developments in both the hardware and the software for so called [[Virtual Intelligence System]], which are semi-smart systems meant to oversee large monitoring and administrative tasks such as the utility grids for cities.
 
 ## [[South California]]
 Atlos is based out of LA and it has nearly full control over South California with only a thin veneer of separation.

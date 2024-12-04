@@ -22,7 +22,7 @@ Verma Corp is one of the giants within [[Neo Phoenix]] and is specialized in ele
 
 Renowned for their ultra-compact security cameras, biometric scanners, and autonomous monitoring systems, Verma Corp has become indispensable to both private enterprises and governing bodies across the Southwest of North America.
 
-The company’s flagship product line, **Vigil-Eye**, integrates basic [[Virtual Intelligence Systems|VIS]] with advanced facial and behavior recognition, enabling unparalleled oversight capabilities.
+The company’s flagship product line, **Vigil-Eye**, integrates basic [[Virtual Intelligence System|VIS]] with advanced facial and behavior recognition, enabling unparalleled oversight capabilities.
 # Rumors
 ## Backdoor Systems
 Verma Corp faces accusations of covertly selling data to the highest bidder and embedding backdoors into their systems for private use.

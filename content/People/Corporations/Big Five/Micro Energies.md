@@ -29,4 +29,4 @@ Banks Island and the surrounding area at the far north of the continent is a res
 
 Recently this has changed as there have been constant low level attacks on any projects in the area that have been making less and less viable.
 ## Micro Generators
-In a recent press release ME has said that they have made a breakthrough in miniaturizing a generator for small scale use. The details of the breakthrough have not been released, but ME has said that it will be able to provide near indefinite amounts of power on a small scale.
+In a recent press release ME has said that they have made a breakthrough in miniaturizing a generator for small scale use. The details of the breakthrough have not been released, but ME has said that it will be able to provide power on a small scale nearly indefinitely.
