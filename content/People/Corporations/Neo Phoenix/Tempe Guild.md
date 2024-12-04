@@ -6,7 +6,7 @@ weight:
 ---
 %%
 Has been bleeding money since the end of the last campaign.
-Their partnership with [[Durdle Corp|Durdle]] has been ended and they are dumping what money they have into attempting to replicate [[Gamma]] tech.
+Their partnership with [[Durdle Corp|Durdle]] has been ended and they are dumping what money they have into attempting to replicate [[Gamma Tech]].
 %%
 
 |              |                                                                                |

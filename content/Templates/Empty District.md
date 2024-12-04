@@ -12,5 +12,4 @@ weight: ""
 | Corporations | Gangs | Fixers |
 |:------------:|:-----:|:------:|
 |              |       |        |
-
 # Summary

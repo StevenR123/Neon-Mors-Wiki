@@ -17,6 +17,4 @@ weight:
 | 20  | Final Goal          |             |
 
 ---
-
-# <center>Outline</center>
-
+# Outline

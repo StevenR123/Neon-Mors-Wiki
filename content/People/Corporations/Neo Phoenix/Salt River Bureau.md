@@ -16,3 +16,4 @@ Wants to focus on bringing goods to and from [[The Republic of Texas]] without t
 | <span class="leftTH">Strength</span>     | Other corps are reluctant to touch them                                      |
 | <span class="leftTH">Recent Event</span> | Its CEO died or was forced out                                               |
 | <span class="leftTH">Corp Goal</span>    | %%Force open a currently-closed market%%                                     |
+# Summary

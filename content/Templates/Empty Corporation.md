@@ -15,3 +15,4 @@ weight:
 | <span class="leftTH">Strength</span>     |     |
 | <span class="leftTH">Recent Event</span> |     |
 | <span class="leftTH">Corp Goal</span>    |     |
+# Summary
