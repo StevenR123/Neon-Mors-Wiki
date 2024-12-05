@@ -75,6 +75,13 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             if (socialImage) data.socialImage = socialImage
 
+            //Make sure weight is defaulted to 0
+            if (data.weight != null) {
+              data.weight = data.weight
+            } else {
+              data.weight = '0'
+            }
+
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
           }
@@ -99,6 +106,7 @@ declare module "vfile" {
         cssclasses: string[]
         socialImage: string
         comments: boolean | string
+        weight: string
       }>
   }
 }
