@@ -17,7 +17,7 @@ Wants to exploit something
 | <span class="leftTH">Recent Event</span> | %%It was driven out of a market recently%%                                             |
 | <span class="leftTH">Corp Goal</span>    | %%Ruthlessly exploit a resource source%%                                               |
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 Renowned for supplying advanced arsenals to the private military forces of mega-corporations. From autonomous combat drones to high-capacity firearms, their cutting-edge technology ensures clients maintain an edge in corporate conflicts.
 

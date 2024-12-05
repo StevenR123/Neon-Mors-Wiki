@@ -9,7 +9,7 @@ weight:
 %%
 %%
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 The last great war was global and involved nuclear attacks across the world. Many of the larger nations of the past have broken down into small coalitions and city states.
 

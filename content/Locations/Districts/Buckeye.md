@@ -13,5 +13,5 @@ weight:
 |:------------:|:-----:|:------:|
 |              |       |        |
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 

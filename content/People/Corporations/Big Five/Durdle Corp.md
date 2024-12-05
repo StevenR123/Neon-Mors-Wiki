@@ -19,7 +19,7 @@ Based in England
 | <span class="leftTH">Recent Event</span> | It conducted a PR blitz on the city                                          |
 | <span class="leftTH">Corp Goal</span>    | %%Inflict a PR disaster on a rival%%                                         |
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 Durdle is one of the worlds five largest mega-corporations and the only one basted out of Europe. They are forerunners in the development of Cyberware and while their normal products are top of the line it is their animal augmentations that have taken the stage recently.
 

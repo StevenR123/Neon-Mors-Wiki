@@ -7,7 +7,7 @@ weight:
 ---
 %%
 %%
-<h1 class='centerText'>Summary</h1>
+# Summary
 Semi-smart systems meant to oversee large monitoring and administrative tasks such as the utility grids for cities.
 
 The closest thing to true Artificial Intelligence humanity has been able to create.

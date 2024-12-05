@@ -19,7 +19,7 @@ Based in the [[East Coast Coalition]].
 | <span class="leftTH">Recent Event</span> | It made a great tech breakthrough                                            |
 | <span class="leftTH">Corp Goal</span>    | %%Sabotage a rival’s current goal%%                                          |
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 Micro Energies is one of the five largest mega-corporations in the world and is based in the [[East Coast Coalition]]. They are focused on developing new Power Generation and Storage methods.
 

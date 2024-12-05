@@ -17,7 +17,7 @@ weight: "10"
 | [[Tempe Guild]] |   [[Phoenix Boys]]   | [[Viktor Stolypin]] |
 |                 | [[Window Syndicate]] |                     |
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 The PDZ is what remains the northern half of old Phoenix. It was heavily damaged in the the last global war and was left abandoned by the government in the decades that followed.
 

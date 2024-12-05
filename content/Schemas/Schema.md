@@ -18,4 +18,6 @@ weight:
 
 ---
 
-# <center>Outline</center>
+<h1 class='centerText'>Outline</h1>
+
+

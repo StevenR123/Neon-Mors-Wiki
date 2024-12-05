@@ -19,7 +19,7 @@ Controls the government of [[South California]].
 | <span class="leftTH">Recent Event</span> | %%AI Project has broken free and is destroying Atlos' outer facilities. %% |
 | <span class="leftTH">Corp Goal</span>    | %%Reassert control over rogue AI%%                                         |
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 Atlos is one of the worlds five largest mega-corporations and the leader in computing technology.
 They have extensive developments in both the hardware and the software for so called [[Virtual Intelligence System]], which are semi-smart systems meant to oversee large monitoring and administrative tasks such as the utility grids for cities.

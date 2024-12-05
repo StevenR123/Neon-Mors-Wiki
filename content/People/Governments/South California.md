@@ -6,7 +6,7 @@ weight:
 ---
 %%
 %%
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 The southern portion of California under the control of Los Angeles.
 

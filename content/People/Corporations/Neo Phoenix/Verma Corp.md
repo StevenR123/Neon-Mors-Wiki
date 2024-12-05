@@ -18,7 +18,7 @@ Verma Corp is attempting to recreate a more controllable AI from the information
 | <span class="leftTH">Recent Event</span> | %%It spent a massive amount of money to bribe the local government to put the city in lockdown%% |
 | <span class="leftTH">Corp Goal</span>    | %%Research a revolutionary new tech%%                                                            |
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 Verma Corp is one of the giants within [[Neo Phoenix]] and is specialized in electronic manufacturing, specializing in surveillance and security technology.
 

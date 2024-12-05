@@ -16,4 +16,4 @@ weight:
 | <span class="leftTH">Recent Event</span> |     |
 | <span class="leftTH">Corp Goal</span>    |     |
 
-<h1 class='centerText'>Summary</h1>
+# Summary

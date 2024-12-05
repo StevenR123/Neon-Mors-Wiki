@@ -11,7 +11,7 @@ weight:
 %%
 %%
 
-<h1 class='centerText'>Summary</h1>
+# Summary
 
 Neo Phoenix is an independent city state between the ever expanding [[The Republic of Texas]] and the brewing warzone [[South California]] is turning into.
 
