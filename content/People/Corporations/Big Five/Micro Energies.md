@@ -18,7 +18,9 @@ Based in the [[East Coast Coalition]].
 | <span class="leftTH">Strength</span>     | %%They have plants among many rivals%%                                       |
 | <span class="leftTH">Recent Event</span> | It made a great tech breakthrough                                            |
 | <span class="leftTH">Corp Goal</span>    | %%Sabotage a rival’s current goal%%                                          |
-# Summary
+
+<h1 class='centerText'>Summary</h1>
+
 Micro Energies is one of the five largest mega-corporations in the world and is based in the [[East Coast Coalition]]. They are focused on developing new Power Generation and Storage methods.
 
 Micro Energies publicly has good relations with the [[East Coast Coalition|ECC]] and works with them on various projects such as the Banks Island harvesting projects.

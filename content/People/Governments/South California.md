@@ -6,7 +6,8 @@ weight:
 ---
 %%
 %%
-# Summary
+<h1 class='centerText'>Summary</h1>
+
 The southern portion of California under the control of Los Angeles.
 
 South California is completely under the thumb of [[Atlos Industries]] with only a thin veneer of separation.

@@ -11,7 +11,8 @@ weight:
 %%
 %%
 
-# Summary
+<h1 class='centerText'>Summary</h1>
+
 Neo Phoenix is an independent city state between the ever expanding [[The Republic of Texas]] and the brewing warzone [[South California]] is turning into.
 
 The government of Neo Phoenix is little more than a tick that sucks the life out of its citizen while taking bribes from various corps to let them do as they please. The normal citizens can make a living in most of the districts of the sprawling mega city, but no one knows real safety of privacy.

@@ -17,7 +17,9 @@ Verma Corp is attempting to recreate a more controllable AI from the information
 | <span class="leftTH">Strength</span>     | They have access to special technology                                                           |
 | <span class="leftTH">Recent Event</span> | %%It spent a massive amount of money to bribe the local government to put the city in lockdown%% |
 | <span class="leftTH">Corp Goal</span>    | %%Research a revolutionary new tech%%                                                            |
-# Summary
+
+<h1 class='centerText'>Summary</h1>
+
 Verma Corp is one of the giants within [[Neo Phoenix]] and is specialized in electronic manufacturing, specializing in surveillance and security technology.
 
 Renowned for their ultra-compact security cameras, biometric scanners, and autonomous monitoring systems, Verma Corp has become indispensable to both private enterprises and governing bodies across the Southwest of North America.

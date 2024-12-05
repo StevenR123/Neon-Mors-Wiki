@@ -16,7 +16,9 @@ Their partnership with [[Durdle Corp|Durdle]] has been ended and they are dumpin
 | <span class="leftTH">Strength</span>     | %%They have plants among many rivals%%                                         |
 | <span class="leftTH">Recent Event</span> | %%It has lost it's partnership with [[Durdle Corp]]%%                          |
 | <span class="leftTH">Corp Goal</span>    | %%Acquire more tangible military power%%                                       |
-# Summary
+
+<h1 class='centerText'>Summary</h1>
+
 Tempe Guild is a biotech giant celebrated for its revolutionary cyber-bioware, blending biological advancements with cybernetic integration. Tempe Guild markets their technology as the pinnacle of human evolution, offering clients seamless upgrades that blend humanity with machinery.
 
 Recently Tempe Guild lost a partnership with [[Durdle Corp]], one of the big five specialized in cybernetics, that lasted almost a decade. This has been a major setback and has caused Tempe Guild to venture into risker territory to regain their footing.

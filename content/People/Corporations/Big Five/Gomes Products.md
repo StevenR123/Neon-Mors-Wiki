@@ -20,7 +20,9 @@ Based in Brazil
 | <span class="leftTH">Strength</span>     | Other corps are reluctant to touch them                                     |
 | <span class="leftTH">Recent Event</span> | It backed a successful rebel government                                     |
 | <span class="leftTH">Corp Goal</span>    | %%Back a useful group of terrorists%%                                       |
-# Summary
+
+<h1 class='centerText'>Summary</h1>
+
 Gomes Products is the largest drug producing mega-corporation in the world and one of the 5 larges mega-corporation. It is based out of Brazil and has close ties with the current government.
 
 ## Brazil
