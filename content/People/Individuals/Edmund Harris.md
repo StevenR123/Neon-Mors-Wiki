@@ -6,13 +6,13 @@ tags:
 weight:
 ---
 %%
-|          |                                                                                       |
-| -------- | ------------------------------------------------------------------------------------- |
-| <span class="leftTH">Strength</span> | Prowess, with their physical form somehow dramatically stronger and tougher than most |
-| <span class="leftTH">Virtue</span>   | Extremely trustworthy to friends                                                      |
-| <span class="leftTH">Flaw</span>     | Accepts bribes or considerations                                                      |
-| <span class="leftTH">Problem</span>  | A family member or friend has a problem                                               |
-| <span class="leftTH">Desire</span>   | They want more money                                                                  |
+|                 |                                                                                                           |
+| ---------- | ------------------------------------------------------------------------ |
+| <span class="leftTH">Strength</span>  | Prowess, with their physical form somehow dramatically stronger and tougher than most |
+| <span class="leftTH">Virtue</span>      | Extremely trustworthy to friends                                                      |
+| <span class="leftTH">Flaw</span>        | Accepts bribes or considerations                                                      |
+| <span class="leftTH">Problem</span>  | A family member or friend has a problem                                        |
+| <span class="leftTH">Desire</span>     | They want more money                                                                    |
 %%
 
 |                                         |                      |
