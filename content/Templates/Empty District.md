@@ -3,14 +3,24 @@ aliases:
 draft: true
 tags:
   - District
-weight: ""
+weight: '0'
 ---
 %%
 %%
 
 
-| Corporations | Gangs | Fixers |
-|:------------:|:-----:|:------:|
-|              |       |        |
+| Gangs | Fixers |
+|:-----:|:------:|
+|       |        |
+|       |        |
+|       |        |
+
+
+| Corporation | Local Contact |
+|:-----------:|:-------------:|
+|             |               |
+|             |               |
+
+
 # Summary
 

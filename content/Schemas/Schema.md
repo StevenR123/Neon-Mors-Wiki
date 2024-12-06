@@ -3,7 +3,7 @@ aliases:
 draft: true
 tags:
   - Schema
-weight:
+weight: '0'
 ---
 %%
 %%

@@ -3,7 +3,7 @@ aliases:
   - Gamma
 draft: true
 tags: 
-weight:
+weight: '0'
 ---
 %%
 %%

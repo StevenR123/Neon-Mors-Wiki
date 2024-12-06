@@ -3,7 +3,7 @@ aliases:
   - Hacker
 draft: false
 tags: 
-weight:
+weight: '0'
 ---
 %%
 %%

@@ -5,7 +5,7 @@ aliases:
 draft: false
 tags:
   - Corp
-weight:
+weight: '0'
 ---
 %%
 Backed a rebel group that has taken over the local government.

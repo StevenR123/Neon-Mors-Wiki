@@ -10,12 +10,18 @@ weight: "10"
 %%
 %%
 
+|        Gangs         |       Fixers        |
+|:--------------------:|:-------------------:|
+|  [[Dead Zone Crew]]  |   [[Jaya Sharma]]   |
+|   [[Phoenix Boys]]   | [[Viktor Stolypin]] |
+| [[Window Syndicate]] |                     |
 
-|  Corporations   |        Gangs         |       Fixers        |
-|:---------------:|:--------------------:|:-------------------:|
-| [[Verma Corp]]  |  [[Dead Zone Crew]]   |   [[Jaya Sharma]]   |
-| [[Tempe Guild]] |   [[Phoenix Boys]]   | [[Viktor Stolypin]] |
-|                 | [[Window Syndicate]] |                     |
+
+|   Corporation   | Local Contact |
+|:---------------:|:-------------:|
+| [[Verma Corp]]  |               |
+| [[Tempe Guild]] |               |
+
 
 # Summary
 

@@ -2,7 +2,7 @@
 aliases: 
 draft: false
 tags: 
-weight:
+weight: '0'
 ---
 %%
 Verma Corp spent a massive amount to have [[Neo Phoenix]] put on lockdown after they lost the experimental AI [[R.A.I.N.]] that they were testing for [[Atlos Industries]].

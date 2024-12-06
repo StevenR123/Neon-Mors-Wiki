@@ -2,7 +2,7 @@
 aliases: 
 draft: true
 tags: 
-weight:
+weight: '0'
 ---
 # Session 15
 

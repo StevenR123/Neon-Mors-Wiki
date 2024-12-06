@@ -2,7 +2,7 @@
 aliases: 
 draft: false
 tags: 
-weight:
+weight: '0'
 ---
 %%
 Recently driven out of the [[Phoenix Dead Zone|PDZ]] during the recent conflicts

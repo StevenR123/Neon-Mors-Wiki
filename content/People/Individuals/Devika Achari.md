@@ -3,7 +3,7 @@ aliases:
 draft: false
 tags:
   - NPC
-weight:
+weight: '0'
 ---
 %%
 |                                      |                                                               |

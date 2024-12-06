@@ -1,5 +1,5 @@
 ---
 title: Neo Pheonix
 draft: false
-weight:
+weight: '0'
 ---

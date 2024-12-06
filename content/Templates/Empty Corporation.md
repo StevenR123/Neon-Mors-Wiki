@@ -3,7 +3,7 @@ aliases:
 draft: true
 tags:
   - Corp
-weight:
+weight:'0'
 ---
 %%
 %%

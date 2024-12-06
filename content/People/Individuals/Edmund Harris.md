@@ -3,9 +3,10 @@ aliases:
 draft: false
 tags:
   - NPC
-weight:
+weight: '0'
 ---
 %%
+
 |                 |                                                                                                           |
 | ---------- | ------------------------------------------------------------------------ |
 | <span class="leftTH">Strength</span>  | Prowess, with their physical form somehow dramatically stronger and tougher than most |

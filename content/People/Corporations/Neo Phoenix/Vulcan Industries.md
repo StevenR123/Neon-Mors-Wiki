@@ -2,7 +2,7 @@
 aliases: 
 draft: false
 tags: 
-weight:
+weight: '0'
 ---
 %%
 

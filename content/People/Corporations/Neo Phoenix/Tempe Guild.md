@@ -2,7 +2,7 @@
 aliases: 
 draft: false
 tags: 
-weight:
+weight: '0'
 ---
 %%
 Has been bleeding money since the end of the last campaign.

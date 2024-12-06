@@ -4,7 +4,7 @@ aliases:
 draft: false
 tags:
   - Corp
-weight:
+weight: '0'
 ---
 %%
 Has access to an incomplete version of [[Gamma]] Tech

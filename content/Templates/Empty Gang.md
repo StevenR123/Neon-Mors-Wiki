@@ -3,7 +3,7 @@ aliases:
 draft: true
 tags:
   - Gang
-weight:
+weight:'0'
 ---
 |                                           |     |
 |:----------------------------------------- |:--- |

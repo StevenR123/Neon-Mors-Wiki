@@ -3,7 +3,7 @@ aliases:
   - Cyberdecks
 draft: false
 tags: 
-weight:
+weight: '0'
 ---
 %%
 %%

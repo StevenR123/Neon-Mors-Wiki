@@ -2,7 +2,7 @@
 aliases: 
 draft: false
 tags: 
-weight:
+weight: '0'
 ---
 %%
 CEO was recently deposed by an insider after the [[Atlos Industries|Atlos]] conflict.

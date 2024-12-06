@@ -4,7 +4,7 @@ aliases:
 draft: false
 tags:
   - Corp
-weight:
+weight: '0'
 ---
 %%
 Recently made a breakthrough in miniaturizing power production. Small generator using mostly inert nuclear material that can make nearly indefinite power. Size of a loaf of bread.

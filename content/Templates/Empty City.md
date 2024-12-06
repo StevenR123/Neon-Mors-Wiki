@@ -3,7 +3,7 @@ aliases:
 draft: true
 tags:
   - City
-weight:
+weight:'0'
 ---
 %%
 %%
