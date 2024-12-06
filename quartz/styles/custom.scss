@@ -11,10 +11,16 @@ td:has(span.leftTH) {
   color: var(--secondary);
 }
 
-p > strong {
+strong {
   color: whitesmoke !important;
 }
 
-.centerText {
+//Center article title and create class to center text
+.centerText, .article-title {
   text-align: center;
+}
+
+//Hides scollbar for overflow menues. Like Explorer component
+.overflow::-webkit-scrollbar {
+  display: none;
 }
