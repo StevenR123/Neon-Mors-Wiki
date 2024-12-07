@@ -3,8 +3,10 @@ aliases:
 draft: true
 tags:
   - Gang
-weight:'0'
+weight: "0"
 ---
+
+
 |                                           |     |
 |:----------------------------------------- |:--- |
 | <span class="leftTH">Income</span>        |     |

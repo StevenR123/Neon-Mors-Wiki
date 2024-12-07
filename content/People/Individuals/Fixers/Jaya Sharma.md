@@ -1,11 +1,12 @@
 ---
 aliases: 
-draft: true
+draft: false
 tags:
   - NPC
+  - PDZ
 weight: "0"
 ---
-%%
+weight: '0'%%
 %%
 
 |                                      |     |
