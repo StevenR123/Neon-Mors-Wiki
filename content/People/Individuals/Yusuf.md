@@ -1,14 +1,14 @@
 ---
 aliases: 
-draft: false
+draft: true
 tags:
   - NPC
-  - PDZ
 weight: "0"
 ---
 %%
 %%
-![[Jaya_Sharma.png]]
+
+![[Yusuf.png]]
 
 |                                      |     |
 | ------------------------------------ | --- |
