@@ -21,11 +21,11 @@ weight: '0'
 
 
 ---
-|        NPC        | Role |
-|:-----------------:|:----:|
-| [[Devika Achari]] | Boss |
-| [[Albert Harris]] |      |
-
+|        NPC        |       Role        |
+|:-----------------:|:-----------------:|
+| [[Devika Achari|Specter]] |       Boss        |
+| [[Albert Harris|Pulse]] | Second in command |
+| [[Victor Reyes|Vexx]]  |     Operative     |
 # Summary
 The Dead Zone Crew is a ruthless gang of contract killers infamous throughout [[Neo Phoenix]]. Operating from the [[Phoenix Dead Zone|PDZ]] they thrive on fear and violence. The Crew is composed of cybernetically enhanced operatives, each specializing in a form of assassination, from sniper tactics to brutal close combat.
 
