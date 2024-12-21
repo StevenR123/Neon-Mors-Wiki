@@ -1,9 +1,10 @@
 ---
 aliases: 
-draft: true
+draft: false
 tags: 
-weight: '0'
+weight: "0"
 ---
+![[Mattis.png]]
 %%
 # Leveling
 ## Level 1
@@ -22,10 +23,17 @@ Foci:
 Skills:
 - Exert 0 (Background)
 - Fix 0 (Foci)
-- Heal (Free + Foci)
-- Shoot (Background + Foci)
+- Heal 1 (Free + Foci)
+- Shoot 1 (Background + Foci)
 Final Stats: 13 (+1), 18 (Prodigy), 14 (+1), 9, 14 (+2), 14 (Set)
 ## Level 2
+Foci:
+- Healer
+Skills:
+- Heal 2 (foci)
+- Sneak 0 (1sp)
+- Trade 0 (1sp)
+- Work 0 (1sp)
 ## Level 3
 
 %%

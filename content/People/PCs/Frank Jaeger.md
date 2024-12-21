@@ -1,9 +1,10 @@
 ---
 aliases: 
-draft: true
+draft: false
 tags: 
-weight: '0'
+weight: "0"
 ---
+![[Frank Jaeger.png]]
 %%
 # # Leveling
 ## Level 1
@@ -24,6 +25,13 @@ Skills:
 - Stab 1 (Background + Background)
 Final Stats: 14 (Set), 18 (Prodigy), 14 (+2), 9, 10, 15
 ## Level 2
+Foci:
+- Shocking Assault
+Skills:
+- Stab 2 (foci)
+- Notice 0 (1sp)
+- Exert 0 (1sp)
+- Save 1sp
 ## Level 3
 
 %%
